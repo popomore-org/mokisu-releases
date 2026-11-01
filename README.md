@@ -9,23 +9,3 @@ Each release contains a macOS installer (`.dmg`), an updater archive (`.app.tar.
 ## Release contract
 
 This repository is a distribution channel. Mokisu builds, signs and verifies artifacts in its source repository through the shared meta release adapters; this channel does not rebuild private source. Historical release tags and published assets remain immutable.
-
-## Release contract
-
-This repository is a distribution channel. Mokisu builds, signs and verifies artifacts in its source repository through the shared meta release adapters; this channel does not rebuild private source. Historical release tags and published assets remain immutable.
-
-## Release contract
-
-This repository is a distribution channel. Mokisu builds, signs and verifies artifacts in its source repository through the shared meta release adapters; this channel does not rebuild private source. Historical release tags and published assets remain immutable.
-
-## Release contract
-
-This repository is a distribution channel. Mokisu builds, signs and verifies artifacts in its source repository through the shared meta release adapters; this channel does not rebuild private source. Historical release tags and published assets remain immutable.
-
-## Release contract
-
-This repository is a distribution channel. Mokisu builds, signs and verifies artifacts in its source repository through the shared meta release adapters; this channel does not rebuild private source. Historical release tags and published assets remain immutable.
-
-## Release contract
-
-This repository is a distribution channel. Mokisu builds, signs and verifies artifacts in its source repository through the shared meta release adapters; this channel does not rebuild private source. Historical release tags and published assets remain immutable.
